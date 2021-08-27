@@ -28,6 +28,16 @@ namespace TL2_TP1.Controllers
             return View();
         }
 
+        public double raiz(int number)
+        {
+            return Math.Sqrt(number);
+        }
+
+        public double division(float a, float b)
+        {
+            return a / b;
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
