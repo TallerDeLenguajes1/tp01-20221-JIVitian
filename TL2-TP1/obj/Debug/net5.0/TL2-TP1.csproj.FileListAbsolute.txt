@@ -38,3 +38,7 @@ C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\T
 C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\obj\Debug\net5.0\TL2-TP1.pdb
 C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\obj\Debug\net5.0\TL2-TP1.genruntimeconfig.cache
 C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\obj\Debug\net5.0\TL2-TP1.csproj.CopyComplete
+C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\NLog.dll
+C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\nlog.config

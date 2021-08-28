@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "jgeAdaIWYkSNfcGCmMWrIr1pP4WMhEGgBBPb1+xY2Az7y79I0ZhXDeb9FBVIEFUKSytAOUlq1lTT0k+BdwHHnQ==",
+  "dgSpecHash": "iSKZ7orvvY/Ru9qiAFPETXMj2JX9ao36BTG6igEjHeF8LCCkj2SxhzKSF+4ORPqZSj7DQp1eG1czyUndSMaYCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jivit\\Desktop\\Mis Cosas\\Facultad\\Licenciatura En Informatica\\2do Anio\\Taller de Lenguajes 2\\Practica\\TP1-Vitian\\TL2-TP1\\TL2-TP1\\TL2-TP1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jivit\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
+    "C:\\Users\\jivit\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jivit\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.0\\microsoft.extensions.configuration.binder.3.0.0.nupkg.sha512",
+    "C:\\Users\\jivit\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
+    "C:\\Users\\jivit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jivit\\.nuget\\packages\\microsoft.extensions.logging\\3.0.0\\microsoft.extensions.logging.3.0.0.nupkg.sha512",
+    "C:\\Users\\jivit\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jivit\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\jivit\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\jivit\\.nuget\\packages\\nlog\\4.7.11\\nlog.4.7.11.nupkg.sha512",
+    "C:\\Users\\jivit\\.nuget\\packages\\nlog.extensions.logging\\1.6.4\\nlog.extensions.logging.1.6.4.nupkg.sha512",
+    "C:\\Users\\jivit\\.nuget\\packages\\nlog.web.aspnetcore\\4.9.3\\nlog.web.aspnetcore.4.9.3.nupkg.sha512"
+  ],
   "logs": []
 }

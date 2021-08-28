@@ -1,0 +1,63 @@
+2021-08-28 00:55:28.7560 Info Message Template Auto Format enabled
+2021-08-28 00:55:28.8312 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-28 00:55:29.0230 Info Adding target FileTarget(Name=allfile)
+2021-08-28 00:55:29.0909 Info Adding target FileTarget(Name=ownFile-web)
+2021-08-28 00:55:29.0993 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-08-28 00:55:29.1190 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-08-28 00:55:29.5209 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\nlog.config
+2021-08-28 00:57:47.1893 Info Message Template Auto Format enabled
+2021-08-28 00:57:47.2387 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-28 00:57:47.3324 Info Adding target FileTarget(Name=allfile)
+2021-08-28 00:57:47.3467 Info Adding target FileTarget(Name=ownFile-web)
+2021-08-28 00:57:47.3467 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-08-28 00:57:47.3467 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-08-28 00:57:47.8870 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\nlog.config
+2021-08-28 00:59:09.1642 Info Message Template Auto Format enabled
+2021-08-28 00:59:09.1857 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-28 00:59:09.2495 Info Adding target FileTarget(Name=allfile)
+2021-08-28 00:59:09.2668 Info Adding target FileTarget(Name=ownFile-web)
+2021-08-28 00:59:09.2668 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-08-28 00:59:09.2668 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-08-28 00:59:09.3302 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\nlog.config
+2021-08-28 01:00:58.6546 Info Message Template Auto Format enabled
+2021-08-28 01:00:58.7411 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-28 01:00:58.9289 Info Adding target FileTarget(Name=allfile)
+2021-08-28 01:00:58.9498 Info Adding target FileTarget(Name=ownFile-web)
+2021-08-28 01:00:58.9498 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-08-28 01:00:58.9534 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-08-28 01:00:59.0920 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\nlog.config
+2021-08-28 01:04:08.8614 Info Message Template Auto Format enabled
+2021-08-28 01:04:08.8811 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-28 01:04:08.9530 Info Adding target FileTarget(Name=allfile)
+2021-08-28 01:04:08.9530 Info Adding target FileTarget(Name=ownFile-web)
+2021-08-28 01:04:08.9530 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-08-28 01:04:08.9700 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-08-28 01:04:09.0235 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\nlog.config
+2021-08-28 01:09:38.0229 Info Message Template Auto Format enabled
+2021-08-28 01:09:38.0713 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-28 01:09:38.2092 Info Adding target FileTarget(Name=allfile)
+2021-08-28 01:09:38.2410 Info Adding target FileTarget(Name=ownFile-web)
+2021-08-28 01:09:38.2410 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-08-28 01:09:38.2509 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-08-28 01:09:38.3296 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\nlog.config
+2021-08-28 01:11:37.6978 Info Message Template Auto Format enabled
+2021-08-28 01:11:37.7510 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-28 01:11:37.9008 Info Adding target FileTarget(Name=allfile)
+2021-08-28 01:11:37.9390 Info Adding target FileTarget(Name=ownFile-web)
+2021-08-28 01:11:37.9390 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-08-28 01:11:37.9530 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-08-28 01:11:38.0320 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\nlog.config
+2021-08-28 01:12:24.9011 Info Message Template Auto Format enabled
+2021-08-28 01:12:25.0086 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-28 01:12:25.1780 Info Adding target FileTarget(Name=allfile)
+2021-08-28 01:12:25.2086 Info Adding target FileTarget(Name=ownFile-web)
+2021-08-28 01:12:25.2086 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-08-28 01:12:25.2086 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-08-28 01:12:25.3029 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\nlog.config
+2021-08-28 01:13:40.4213 Info Message Template Auto Format enabled
+2021-08-28 01:13:40.4547 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-28 01:13:40.5581 Info Adding target FileTarget(Name=allfile)
+2021-08-28 01:13:40.5967 Info Adding target FileTarget(Name=ownFile-web)
+2021-08-28 01:13:40.5967 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-08-28 01:13:40.5967 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-08-28 01:13:40.7203 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jivit\Desktop\Mis Cosas\Facultad\Licenciatura En Informatica\2do Anio\Taller de Lenguajes 2\Practica\TP1-Vitian\TL2-TP1\TL2-TP1\bin\Debug\net5.0\nlog.config
